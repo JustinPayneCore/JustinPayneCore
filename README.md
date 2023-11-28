@@ -17,18 +17,24 @@ Here are some ideas to get you started:
 
 I am a recent graduate of the CST program at British Columbia Institute of Technology (BCIT).
 
-### 🎓 Education
-- Computer Systems Technology Diploma from BCIT (Graduated Winter 2022, with Distinction)
-
-
-### 💻 Skills
-
-
 ### 📚 Projects
 - Pugna Ultima - 2D platformer online PvP fighting game (C# .NET Framework, Unity, Photon Fusion & Azure PlayFab)
 - Jusgabon - Top-down, 2D Zelda-like singleplayer RPG (C# .NET Framework & MonoGame game engine)
 
 
+### 🎓 Education
+- Computer Systems Technology Diploma from BCIT (Graduated Winter 2022, with Distinction)
+- Recipient of the Brian Anderson Memorial Award in Technical Programming 2022
+
+
+### 💻 Skills
+- Proficient languages: C#, Python, Java, & Javascript
+- Experience with: .NET Framework, Unity, MonoGame, MongoDB, MySQL, Firebase, NodeJs, ExpressJS, React, React Native, Figma, Git, & Trello
+- Soft skills: Communication, Collaboration, Adaptability, Project management, & Problem Solving
+
+
 ### 📫 Contact
+You can reach out to me at justinthecore@gmail.com or connect with me on LinkedIn.
+
 
 Thanks for checking out my profile!
